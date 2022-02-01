@@ -11,4 +11,4 @@ As this code is from when I was 16 years old, it doesn't follow the best practic
 
 ## Try it out
 
-Download from the [releases page](https://github.com/birusq/swag-man/releases/tag/v1.0).
+Download the jar file from the [releases page](https://github.com/birusq/swag-man/releases/tag/v1.0).
