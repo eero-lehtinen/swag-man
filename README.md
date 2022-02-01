@@ -9,6 +9,8 @@ Also my version runs at 100 fps while the original runs at 60 fps, which makes s
 
 As this code is from when I was 16 years old, it doesn't follow the best practices. E.g. it uses lots of circular dependencies and **_a lot_** of if-statements. But ignoring that the game itself works well, which is nice.
 
+![Tux, the Linux mascot](/swag-man_screenshot.png)
+
 ## Try it out
 
 Download the jar file from the [releases page](https://github.com/birusq/swag-man/releases/tag/v1.0).
