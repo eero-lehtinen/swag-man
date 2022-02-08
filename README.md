@@ -1,5 +1,7 @@
 # Swag-Man
 
+Written in 2016.
+
 ![Swag-Man Screenshot](/swag-man_screenshot.png)
 
 ## Description
